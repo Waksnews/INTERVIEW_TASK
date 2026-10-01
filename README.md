@@ -1,6 +1,6 @@
 # Full-Stack Keeper App (Django REST Framework + React)
 
-A decoupled CRUD application featuring a Django REST Framework API backend and a dynamic React frontend.
+A CRUD application featuring a Django REST Framework API backend and a dynamic React frontend.
 
 ---
 
@@ -19,8 +19,7 @@ A decoupled CRUD application featuring a Django REST Framework API backend and a
 
 ## Features
 - **Complete CRUD Operations**: Create, Read, Update, and Delete notes with real-time UI synchronization.
-- **Decoupled Architecture**: Django REST Framework serving JSON endpoints; React handling client-side state and async HTTP requests.
-- **CORS Configured**: Seamless local communication between port 3000 and port 8000 using `django-cors-headers`.
+- **Architecture**: Django REST Framework serving JSON endpoints; React handling client-side state and async HTTP requests.
 - **Admin Dashboard**: Custom `ModelAdmin` configuration providing search and filtered list views.
 
 ---
